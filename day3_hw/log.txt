@@ -1,0 +1,500 @@
+Wed Oct 23 16:42:29 2019- read_data takes 436 ns
+Wed Oct 23 16:42:29 2019- write_data takes 97 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 1 ns
+Wed Oct 23 16:42:29 2019- send_data takes 204 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8476 ns
+Wed Oct 23 16:42:29 2019- read_data takes 507 ns
+Wed Oct 23 16:42:29 2019- write_data takes 74 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 3 ns
+Wed Oct 23 16:42:29 2019- send_data takes 38 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 4613 ns
+Wed Oct 23 16:42:29 2019- read_data takes 216 ns
+Wed Oct 23 16:42:29 2019- write_data takes 93 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 13 ns
+Wed Oct 23 16:42:29 2019- send_data takes 129 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 5630 ns
+Wed Oct 23 16:42:29 2019- read_data takes 328 ns
+Wed Oct 23 16:42:29 2019- write_data takes 27 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 12 ns
+Wed Oct 23 16:42:29 2019- send_data takes 150 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8698 ns
+Wed Oct 23 16:42:29 2019- read_data takes 222 ns
+Wed Oct 23 16:42:29 2019- write_data takes 80 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 33 ns
+Wed Oct 23 16:42:29 2019- send_data takes 57 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3887 ns
+Wed Oct 23 16:42:29 2019- read_data takes 231 ns
+Wed Oct 23 16:42:29 2019- write_data takes 13 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 32 ns
+Wed Oct 23 16:42:29 2019- send_data takes 132 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6300 ns
+Wed Oct 23 16:42:29 2019- read_data takes 309 ns
+Wed Oct 23 16:42:29 2019- write_data takes 95 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 45 ns
+Wed Oct 23 16:42:29 2019- send_data takes 162 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6308 ns
+Wed Oct 23 16:42:29 2019- read_data takes 244 ns
+Wed Oct 23 16:42:29 2019- write_data takes 62 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 20 ns
+Wed Oct 23 16:42:29 2019- send_data takes 112 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 4284 ns
+Wed Oct 23 16:42:29 2019- read_data takes 403 ns
+Wed Oct 23 16:42:29 2019- write_data takes 55 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 18 ns
+Wed Oct 23 16:42:29 2019- send_data takes 130 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3208 ns
+Wed Oct 23 16:42:29 2019- read_data takes 306 ns
+Wed Oct 23 16:42:29 2019- write_data takes 13 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 11 ns
+Wed Oct 23 16:42:29 2019- send_data takes 59 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8108 ns
+Wed Oct 23 16:42:29 2019- read_data takes 317 ns
+Wed Oct 23 16:42:29 2019- write_data takes 59 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 21 ns
+Wed Oct 23 16:42:29 2019- send_data takes 71 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 4867 ns
+Wed Oct 23 16:42:29 2019- read_data takes 188 ns
+Wed Oct 23 16:42:29 2019- write_data takes 48 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 5 ns
+Wed Oct 23 16:42:29 2019- send_data takes 43 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8717 ns
+Wed Oct 23 16:42:29 2019- read_data takes 336 ns
+Wed Oct 23 16:42:29 2019- write_data takes 47 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 7 ns
+Wed Oct 23 16:42:29 2019- send_data takes 42 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3450 ns
+Wed Oct 23 16:42:29 2019- read_data takes 426 ns
+Wed Oct 23 16:42:29 2019- write_data takes 54 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 46 ns
+Wed Oct 23 16:42:29 2019- send_data takes 92 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 953 ns
+Wed Oct 23 16:42:29 2019- read_data takes 200 ns
+Wed Oct 23 16:42:29 2019- write_data takes 99 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 50 ns
+Wed Oct 23 16:42:29 2019- send_data takes 67 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 2412 ns
+Wed Oct 23 16:42:29 2019- read_data takes 477 ns
+Wed Oct 23 16:42:29 2019- write_data takes 25 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 35 ns
+Wed Oct 23 16:42:29 2019- send_data takes 43 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 7867 ns
+Wed Oct 23 16:42:29 2019- read_data takes 395 ns
+Wed Oct 23 16:42:29 2019- write_data takes 44 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 11 ns
+Wed Oct 23 16:42:29 2019- send_data takes 181 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6238 ns
+Wed Oct 23 16:42:29 2019- read_data takes 415 ns
+Wed Oct 23 16:42:29 2019- write_data takes 56 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 14 ns
+Wed Oct 23 16:42:29 2019- send_data takes 183 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6492 ns
+Wed Oct 23 16:42:29 2019- read_data takes 145 ns
+Wed Oct 23 16:42:29 2019- write_data takes 39 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 7 ns
+Wed Oct 23 16:42:29 2019- send_data takes 112 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6418 ns
+Wed Oct 23 16:42:29 2019- read_data takes 394 ns
+Wed Oct 23 16:42:29 2019- write_data takes 20 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 49 ns
+Wed Oct 23 16:42:29 2019- send_data takes 23 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 7690 ns
+Wed Oct 23 16:42:29 2019- read_data takes 273 ns
+Wed Oct 23 16:42:29 2019- write_data takes 82 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 15 ns
+Wed Oct 23 16:42:29 2019- send_data takes 65 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 2597 ns
+Wed Oct 23 16:42:29 2019- read_data takes 116 ns
+Wed Oct 23 16:42:29 2019- write_data takes 95 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 28 ns
+Wed Oct 23 16:42:29 2019- send_data takes 74 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 5271 ns
+Wed Oct 23 16:42:29 2019- read_data takes 382 ns
+Wed Oct 23 16:42:29 2019- write_data takes 25 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 6 ns
+Wed Oct 23 16:42:29 2019- send_data takes 208 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 5072 ns
+Wed Oct 23 16:42:29 2019- read_data takes 373 ns
+Wed Oct 23 16:42:29 2019- write_data takes 82 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 24 ns
+Wed Oct 23 16:42:29 2019- send_data takes 189 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 5802 ns
+Wed Oct 23 16:42:29 2019- read_data takes 283 ns
+Wed Oct 23 16:42:29 2019- write_data takes 32 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 12 ns
+Wed Oct 23 16:42:29 2019- send_data takes 205 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8555 ns
+Wed Oct 23 16:42:29 2019- read_data takes 395 ns
+Wed Oct 23 16:42:29 2019- write_data takes 86 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 18 ns
+Wed Oct 23 16:42:29 2019- send_data takes 220 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 1795 ns
+Wed Oct 23 16:42:29 2019- read_data takes 176 ns
+Wed Oct 23 16:42:29 2019- write_data takes 14 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 45 ns
+Wed Oct 23 16:42:29 2019- send_data takes 133 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6916 ns
+Wed Oct 23 16:42:29 2019- read_data takes 476 ns
+Wed Oct 23 16:42:29 2019- write_data takes 14 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 15 ns
+Wed Oct 23 16:42:29 2019- send_data takes 185 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8133 ns
+Wed Oct 23 16:42:29 2019- read_data takes 177 ns
+Wed Oct 23 16:42:29 2019- write_data takes 46 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 18 ns
+Wed Oct 23 16:42:29 2019- send_data takes 44 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8803 ns
+Wed Oct 23 16:42:29 2019- read_data takes 135 ns
+Wed Oct 23 16:42:29 2019- write_data takes 91 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 29 ns
+Wed Oct 23 16:42:29 2019- send_data takes 141 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 1308 ns
+Wed Oct 23 16:42:29 2019- read_data takes 491 ns
+Wed Oct 23 16:42:29 2019- write_data takes 95 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 25 ns
+Wed Oct 23 16:42:29 2019- send_data takes 199 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 2654 ns
+Wed Oct 23 16:42:29 2019- read_data takes 433 ns
+Wed Oct 23 16:42:29 2019- write_data takes 16 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 39 ns
+Wed Oct 23 16:42:29 2019- send_data takes 132 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 2356 ns
+Wed Oct 23 16:42:29 2019- read_data takes 461 ns
+Wed Oct 23 16:42:29 2019- write_data takes 94 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 10 ns
+Wed Oct 23 16:42:29 2019- send_data takes 147 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 7529 ns
+Wed Oct 23 16:42:29 2019- read_data takes 218 ns
+Wed Oct 23 16:42:29 2019- write_data takes 49 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 2 ns
+Wed Oct 23 16:42:29 2019- send_data takes 30 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3451 ns
+Wed Oct 23 16:42:29 2019- read_data takes 236 ns
+Wed Oct 23 16:42:29 2019- write_data takes 16 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 41 ns
+Wed Oct 23 16:42:29 2019- send_data takes 47 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3611 ns
+Wed Oct 23 16:42:29 2019- read_data takes 389 ns
+Wed Oct 23 16:42:29 2019- write_data takes 48 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 45 ns
+Wed Oct 23 16:42:29 2019- send_data takes 107 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 4894 ns
+Wed Oct 23 16:42:29 2019- read_data takes 230 ns
+Wed Oct 23 16:42:29 2019- write_data takes 92 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 2 ns
+Wed Oct 23 16:42:29 2019- send_data takes 216 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 869 ns
+Wed Oct 23 16:42:29 2019- read_data takes 395 ns
+Wed Oct 23 16:42:29 2019- write_data takes 66 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 8 ns
+Wed Oct 23 16:42:29 2019- send_data takes 81 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8331 ns
+Wed Oct 23 16:42:29 2019- read_data takes 461 ns
+Wed Oct 23 16:42:29 2019- write_data takes 51 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 38 ns
+Wed Oct 23 16:42:29 2019- send_data takes 80 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 1847 ns
+Wed Oct 23 16:42:29 2019- read_data takes 424 ns
+Wed Oct 23 16:42:29 2019- write_data takes 59 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 29 ns
+Wed Oct 23 16:42:29 2019- send_data takes 57 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6080 ns
+Wed Oct 23 16:42:29 2019- read_data takes 288 ns
+Wed Oct 23 16:42:29 2019- write_data takes 28 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 38 ns
+Wed Oct 23 16:42:29 2019- send_data takes 198 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3694 ns
+Wed Oct 23 16:42:29 2019- read_data takes 439 ns
+Wed Oct 23 16:42:29 2019- write_data takes 47 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 17 ns
+Wed Oct 23 16:42:29 2019- send_data takes 119 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6645 ns
+Wed Oct 23 16:42:29 2019- read_data takes 482 ns
+Wed Oct 23 16:42:29 2019- write_data takes 33 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 1 ns
+Wed Oct 23 16:42:29 2019- send_data takes 136 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 1950 ns
+Wed Oct 23 16:42:29 2019- read_data takes 208 ns
+Wed Oct 23 16:42:29 2019- write_data takes 44 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 31 ns
+Wed Oct 23 16:42:29 2019- send_data takes 128 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 1253 ns
+Wed Oct 23 16:42:29 2019- read_data takes 100 ns
+Wed Oct 23 16:42:29 2019- write_data takes 15 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 18 ns
+Wed Oct 23 16:42:29 2019- send_data takes 65 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 2214 ns
+Wed Oct 23 16:42:29 2019- read_data takes 352 ns
+Wed Oct 23 16:42:29 2019- write_data takes 59 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 6 ns
+Wed Oct 23 16:42:29 2019- send_data takes 122 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 4199 ns
+Wed Oct 23 16:42:29 2019- read_data takes 294 ns
+Wed Oct 23 16:42:29 2019- write_data takes 53 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 1 ns
+Wed Oct 23 16:42:29 2019- send_data takes 111 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 8917 ns
+Wed Oct 23 16:42:29 2019- read_data takes 406 ns
+Wed Oct 23 16:42:29 2019- write_data takes 79 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 11 ns
+Wed Oct 23 16:42:29 2019- send_data takes 101 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3548 ns
+Wed Oct 23 16:42:29 2019- read_data takes 282 ns
+Wed Oct 23 16:42:29 2019- write_data takes 73 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 32 ns
+Wed Oct 23 16:42:29 2019- send_data takes 142 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 6757 ns
+Wed Oct 23 16:42:29 2019- read_data takes 237 ns
+Wed Oct 23 16:42:29 2019- write_data takes 89 ns
+Wed Oct 23 16:42:29 2019- toggle_data takes 1 ns
+Wed Oct 23 16:42:29 2019- send_data takes 190 ns
+Wed Oct 23 16:42:29 2019- recv_data takes 3993 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 376 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 64 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 44 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 94 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6534 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 248 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 33 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 16 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 94 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4808 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 271 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 50 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 20 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 204 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 7149 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 339 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 13 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 4 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 49 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 8575 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 331 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 24 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 22 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 21 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 5809 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 390 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 80 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 37 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 67 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 2666 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 318 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 51 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 38 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 57 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 1589 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 109 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 60 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 33 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 219 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 8053 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 152 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 96 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 47 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 100 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 2285 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 452 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 59 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 41 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 52 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 8220 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 498 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 43 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 20 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 170 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 5882 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 273 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 52 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 1 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 69 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6900 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 175 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 70 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 8 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 145 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 5808 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 356 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 17 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 26 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 32 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4186 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 211 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 20 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 31 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 98 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 950 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 305 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 37 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 31 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 120 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 7633 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 178 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 65 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 28 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 76 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3183 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 110 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 24 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 3 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 167 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 5906 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 167 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 44 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 18 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 24 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 7506 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 289 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 33 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 47 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 96 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6847 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 120 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 89 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 34 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 201 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 1795 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 401 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 12 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 21 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 60 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3669 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 501 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 12 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 10 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 115 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 868 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 379 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 89 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 20 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 122 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 2663 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 344 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 31 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 48 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 66 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6030 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 317 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 93 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 1 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 77 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 1873 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 405 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 88 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 25 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 150 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6366 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 214 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 57 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 43 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 151 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 8623 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 106 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 23 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 46 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 43 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6371 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 304 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 100 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 25 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 139 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4353 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 446 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 63 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 34 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 217 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3363 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 133 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 17 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 3 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 50 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3807 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 450 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 85 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 48 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 190 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3010 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 454 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 86 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 6 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 179 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4967 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 340 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 21 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 48 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 23 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 6320 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 509 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 37 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 26 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 201 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3105 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 315 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 18 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 12 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 120 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3861 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 263 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 26 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 40 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 110 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3242 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 173 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 11 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 4 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 63 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 2417 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 336 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 66 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 44 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 61 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4275 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 196 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 89 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 33 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 207 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 1157 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 247 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 72 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 38 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 192 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 5235 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 263 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 92 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 41 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 176 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 5640 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 261 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 76 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 31 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 75 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 3805 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 442 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 67 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 23 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 111 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 2424 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 406 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 31 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 48 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 160 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4648 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 494 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 46 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 2 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 190 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 2346 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 270 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 73 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 40 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 132 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 8164 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 224 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 21 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 6 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 43 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 1842 ns
+Wed Oct 23 16:43:36 2019 - read_data takes 181 ns
+Wed Oct 23 16:43:36 2019 - write_data takes 47 ns
+Wed Oct 23 16:43:36 2019 - toggle_data takes 19 ns
+Wed Oct 23 16:43:36 2019 - send_data takes 117 ns
+Wed Oct 23 16:43:36 2019 - recv_data takes 4436 ns

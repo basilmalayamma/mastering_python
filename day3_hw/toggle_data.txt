@@ -1,0 +1,1 @@
+toggle_data:maximum:48,avg:26.68

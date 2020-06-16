@@ -1,0 +1,1 @@
+write_data:maximum:100,avg:51.46

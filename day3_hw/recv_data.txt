@@ -1,0 +1,1 @@
+recv_data:maximum:8623,avg:4623.28
